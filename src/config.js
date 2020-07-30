@@ -22,13 +22,13 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/raunaqjain',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bchiang7',
+    // },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/jraunaq18',
     },
     {
       name: 'Twitter',
