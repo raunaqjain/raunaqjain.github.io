@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Raunaq Jain'
-subtitle: 'I build things for the web.'
+subtitle: 'I solve problems.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a computer science graduate student at University at Buffalo, New York. I specialize in building machine learning models and developing applications.

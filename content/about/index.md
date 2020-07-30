@@ -2,18 +2,17 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Python
+  - Rust
+  - Django
+  - Java
+  - Apache Solr
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Raunaq, a Computer Science graduate student based in Buffalo, New york. I enjoy solving challenging problems and building applications with a purpose. My goal is to provide users with awesome features they can use in their daily life.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+Before joining [University at Buffalo](http://www.buffalo.edu/), I interned at [Hypothizer](https://www.linkedin.com/company/docmentai-hypothizer/about/) where I worked on building a cloud-native document proceessing platform that captured intelligence-ready data from documents.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Currently, I am working with [Prof. Steven Ko](https://nsr.cse.buffalo.edu/?page_id=272) to design a secure storage to verify the safety features of Rust and with [Prof. Varun Chandola](https://cse.buffalo.edu/~chandola/) & [Prof. Marc Bohlen](https://arts-sciences.buffalo.edu/art/faculty/directory/bohlen-marc.html) to develop an application which classifies species of plant in the field.
 
 Here are a few technologies I've been working with recently:
