@@ -1,10 +1,10 @@
 ---
 date: '2017-04-01'
 title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'Jan - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+company: 'All India Council for Technical Education'
+location: 'Delhi, India'
+range: 'October 2017 - March 2018'
+url: 'https://www.aicte-india.org/'
 ---
 
 - Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern

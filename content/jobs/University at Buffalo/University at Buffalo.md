@@ -1,10 +1,10 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Volunteer'
+company: 'University at Buffalo'
+location: 'Buffalo, NY'
+range: 'June 2020 - Present'
+url: 'http://www.buffalo.edu/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects

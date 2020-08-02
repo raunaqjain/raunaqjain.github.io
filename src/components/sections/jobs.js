@@ -8,7 +8,7 @@ const { colors, fontSizes, fonts } = theme;
 
 const StyledContainer = styled(Section)`
   position: relative;
-  max-width: 700px;
+  max-width: 900px;
 `;
 const StyledTabs = styled.div`
   display: flex;
@@ -17,6 +17,7 @@ const StyledTabs = styled.div`
   ${media.thone`
     display: block;
   `};
+  width: 100%;
 `;
 const StyledTabList = styled.ul`
   display: block;
