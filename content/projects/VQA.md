@@ -1,6 +1,6 @@
 ---
 date: '2016-08-01'
-title: 'Computer Vision'
+title: 'Visual Question Answering'
 github: 'https://github.com/bchiang7/react-profile'
 external: 'https://bchiang7.github.io/react-profile/'
 tech:
@@ -9,4 +9,4 @@ tech:
 showInProjects: true
 ---
 
-Implementation of image stitching, kmeans segmentation, image denoising using filters, and ransac algorithms.
+An application which answers your questions about an input image. Based on the [VQA](https://visualqa.org/) challenge.
