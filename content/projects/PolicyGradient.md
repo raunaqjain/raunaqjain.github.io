@@ -2,11 +2,11 @@
 date: '2019-11-12'
 title: 'Policy Gradient Methods (Reinforcement Learning)'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+external: ''
 tech:
   - Python
   - OpenAi-Gym
-company: 'Upstatement'
+company: 'University at Buffalo'
 showInProjects: true
 ---
 

@@ -2,7 +2,7 @@
 date: '2017-12-01'
 title: 'Atari Breakout (Reinforcement Learning)'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: ''
 tech:
   - Python
   - OpenAi-Gym

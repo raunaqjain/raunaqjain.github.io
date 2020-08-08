@@ -1,9 +1,9 @@
 ---
 date: '2'
 title: 'DogDogGo'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+cover: './nothumb.jpg'
+github: 'https://github.com/raunaqjain/DogDogGo'
+external: ''
 tech:
   - Django
   - React

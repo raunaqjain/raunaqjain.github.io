@@ -2,7 +2,7 @@
 date: '2016-08-01'
 title: 'Similarity Between Us - Siamese Networks'
 github: 'https://github.com/bchiang7/react-profile'
-external: 'https://bchiang7.github.io/react-profile/'
+external: ''
 tech:
   - PyTorch
   - Python
