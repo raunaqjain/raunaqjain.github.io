@@ -7,6 +7,7 @@ range: 'October 2017 - March 2018'
 url: 'https://www.aicte-india.org/'
 ---
 
-- Enhanced AICTE’s Approval Process Handbook used to authorize higher education institutes.
+- Created a web application in Django that utilizes machine learning to predict employment potential of universities, thereby enhancing AICTE’s Approval Handbook. [Documentation](https://teamextrapolate.github.io/extrapolate/)
 - Developed and shipped a web application in Django that utilizes machine learning to predict employment potential of universities.
-- Curated 5 years of data to evaluate employment statistics in Python and developed interactive plots for user interface.
+- Cleaned, structured, analyzed and visualized data of 5 years in Python and developed interactive plots for user interface.
+- Awarded with the 1st prize (\$3000) in Smart India Hackathon’17, MHRD, Govt. of India, against 7400+ teams.

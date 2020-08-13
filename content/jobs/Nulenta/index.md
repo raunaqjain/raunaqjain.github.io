@@ -7,5 +7,5 @@ range: 'December 2019 - January 2020'
 url: 'https://nulenta.com/'
 ---
 
-- Developed a resume parser in Django using REST API.
-- Built a machine learning pipeline to match and score job requirements with user profiles for automatic candidate selection.
+- Spearheaded development of a resume parser in Django (REST API).
+- • Built an end-to-end solution to match and score job requirements with user profiles for automatic candidate selection using a machine learning model.

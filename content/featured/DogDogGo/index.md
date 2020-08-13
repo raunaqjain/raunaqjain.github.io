@@ -1,7 +1,7 @@
 ---
-date: '2'
+date: '3'
 title: 'DogDogGo'
-cover: './nothumb.jpg'
+cover: './dogdoggo.jpg'
 github: 'https://github.com/raunaqjain/DogDogGo'
 external: ''
 tech:
