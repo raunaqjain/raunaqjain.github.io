@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Raunaq Jain | MS Computer Science Graduate Student',
   siteDescription:
-    'Raunaq Jain is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Raunaq Jain is a computer science graduate student based in Buffalo, NY who specializes in building machine learning models and developing applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Raunaq Jain, Raunaq, Jain, raunaqjain, software engineer, machine learning engineer, python, University at Buffalo',
   siteUrl: 'https://raunaqjain.com',
   siteLanguage: 'en_US',
   // googleAnalyticsID: 'UA-45666519-2',
