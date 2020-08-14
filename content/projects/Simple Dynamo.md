@@ -1,7 +1,7 @@
 ---
 date: '2020-01-10'
 title: 'Simple Dynamo'
-github: ''
+github: 'https://github.com/raunaqjain/CSE-586DistributedSystems'
 external: ''
 tech:
   - Java

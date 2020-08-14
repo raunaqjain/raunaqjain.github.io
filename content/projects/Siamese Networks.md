@@ -1,7 +1,7 @@
 ---
 date: '2016-08-01'
 title: 'Similarity Between Us - Siamese Networks'
-github: ''
+github: 'https://github.com/raunaqjain/facerecog'
 external: ''
 tech:
   - PyTorch
