@@ -1,7 +1,7 @@
 ---
 date: '2020-01-10'
 title: 'Simple Dynamo'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
+github: ''
 external: ''
 tech:
   - Java

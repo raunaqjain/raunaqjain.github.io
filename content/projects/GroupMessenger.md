@@ -1,7 +1,7 @@
 ---
 date: '2018-12-29'
 title: 'Group messenger'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
+github: ''
 external: ''
 tech:
   - Java
