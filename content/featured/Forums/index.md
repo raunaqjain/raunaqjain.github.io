@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Forums'
-cover: './nothumb.jpg'
+cover: './forums.jpg'
 github: 'https://github.com/raunaqjain/forums'
 external: ''
 tech:
