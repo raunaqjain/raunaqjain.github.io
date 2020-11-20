@@ -10,7 +10,7 @@ module.exports = {
   // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Raunaq Jain',
   location: 'Buffalo, NY',
-  email: 'raunaqja@buffalo.com',
+  email: 'raunaqja@buffalo.edu',
   github: 'https://github.com/raunaqjain',
   twitterHandle: '@raunaqjain',
   socialMedia: [
