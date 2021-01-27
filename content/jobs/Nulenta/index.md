@@ -8,4 +8,4 @@ url: 'https://nulenta.com/'
 ---
 
 - Spearheaded development of a resume parser in Django (REST API).
-- • Built an end-to-end solution to match and score job requirements with user profiles for automatic candidate selection using a machine learning model.
+- Built an end-to-end solution to match and score job requirements with user profiles for automatic candidate selection using a machine learning model.

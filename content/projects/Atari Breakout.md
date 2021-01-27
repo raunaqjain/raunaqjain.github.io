@@ -10,4 +10,4 @@ company: 'Apple'
 showInProjects: true
 ---
 
-Trained an agent to play Atari breakout achieving state-of-the-art results.
+Trained an agent to play Atari Breakout achieving state-of-the-art results.

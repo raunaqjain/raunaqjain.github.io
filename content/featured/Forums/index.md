@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-A forum where users can create topics and have a discussion.
+A forum where users can create topics to have a discussion.
