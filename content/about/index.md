@@ -3,16 +3,16 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - Python
+  - Java
   - Rust
   - Django
-  - Java
-  - Apache Solr
+  - AWS
 ---
 
-Hello! I'm Raunaq, a computer science graduate student based in Buffalo, New York. I enjoy solving challenges and building applications for a purpose. My goal is to provide users with exceptional features that support them in their daily life.
+Hello! I'm Raunaq, a Software Developer at [Audible](http://www.audible.com). I enjoy solving challenges and building applications for a purpose. My goal is to develop exceptional features that support, brighten and entertain users in their daily life.
 
-Before joining [University at Buffalo](http://www.buffalo.edu/), I interned at [Hypothizer](https://www.linkedin.com/company/docmentai-hypothizer/about/), where I built a cloud-native document processing platform to capture intelligence-ready data.
+I completed my Masters in Computer Science from the [University at Buffalo](http://www.buffalo.edu/); wherein I worked with [Prof. Varun Chandola](https://cse.buffalo.edu/~chandola/) & [Prof. Marc Böhlen](https://arts-sciences.buffalo.edu/art/faculty/directory/bohlen-marc.html) to develop an application that classifies images and videos of plant species in wild and publish our results - "From images in the wild to video-informed image classification", 20th IEEE ICMLA, 2021 [link](https://ieeexplore.ieee.org/abstract/document/9679961).
 
-Recently, I worked with [Prof. Steve Ko](https://nsr.cse.buffalo.edu/?page_id=272), where I designed a secure file storage system in Rust and proved its memory safety through software verification. Currently, I am working with [Prof. Varun Chandola](https://cse.buffalo.edu/~chandola/) & [Prof. Marc Böhlen](https://arts-sciences.buffalo.edu/art/faculty/directory/bohlen-marc.html) to develop an application that classifies images and videos of plant species.
+Before that, I interned at [Hypothizer](https://www.linkedin.com/company/docmentai-hypothizer/about/), where I built a cloud-native document processing platform to capture intelligence-ready data.
 
 Here are a few technologies I've been working with recently:

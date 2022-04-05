@@ -1,8 +1,12 @@
 ---
-title: 'Hi, my name is'
+title: 'Hello World. This is'
 name: 'Raunaq Jain'
-subtitle: 'I solve problems.'
+subtitle: 'Your friendly neighbourhood Software Developer'
 buttonText: 'Get In Touch'
 ---
 
-I'm a computer science graduate student at University at Buffalo, New York. My primary interests extend towards the intersection of Distributed Systems and Machine Learning. I am interested in conducting novel research that improves the state-of-the-art and leaves an impact on society for the greater good. Outside of academia, I play guitar, chess, binge movies and listen to rock music.
+I'm a Software Development Engineer at Audible, with a mission to make our customers have the best experience listening Audiobooks. I graduated from the University at Buffalo with a Masters in Computer Science and an immense desire to create something life-changing.
+
+I have been involved in the domain of Machine Learning since my undergrad, and even have a publication against my name!
+
+Outside of work, I am either playing Xbox, or watching movies, anime or F1.

@@ -2,6 +2,8 @@
 date: '2016-08-01'
 title: 'Visual Question Answering'
 github: 'https://github.com/raunaqjain/vqamd'
+ios: 'https://github.com/raunaqjain/vqamd'
+android: 'https://github.com/raunaqjain/vqamd'
 external: ''
 tech:
   - OpenCV
